@@ -1,3 +1,3 @@
-module github.com/danielvolchek/stim-backend
+module github.com/danielvolchek/stim-core
 
 go 1.20
